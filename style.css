@@ -1,0 +1,37 @@
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+    background-color: grey;
+}
+
+.navigation{ 
+    height: 50px;
+    background-color: lightgray;
+}
+
+.left{
+    width: 20%;
+    background-color: lightsteelblue;
+    float:left;
+    height: 500px;
+    text-align: center;
+}
+
+.right{
+    width: 80%;
+    background-color: lightpink;
+    float: right;
+    height: 500px
+}
+
+.left-photo{
+    border: 1px;
+    border-color: black;
+    height: 200px;
+}
+
+.side-image{
+    height: 150px;
+    width: 150px;
+    padding: 60px;
+}
